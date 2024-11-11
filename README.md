@@ -1,11 +1,16 @@
-### Hi, I'm Jaymini! 👋
+# Hi there, I’m Jaymini Chauhan 👋
 
-I have an analytical background in economics, accounts and finance. I have developed a strong foundation in data manipulation and a passion for using data to uncover meaningful insights through reports. I am excited to bring my technical and analytical skills to the field of data analysis as an entry-level data analyst.
+I'm a tech enthusiast with a background in data, accounts, and creative problem-solving. My journey has led me to the world of **web development**, where I’m excited to blend creativity and technical skills to build dynamic, user-centered applications.
 
-During my studies, I honed my ability to work with complex data and developed developed my statistical analysis skills. I also gained professional experience in the insurance underwriting industry, managing records, and creating insight-driven reports for senior management, which I believe will be valuable assets in my role as a data analyst.
+### About Me
+- 💻 **Aspiring Developer**: Currently focused on enhancing my coding skills and exploring new frameworks as I work toward a career in web development.
+- 🔍 **Data & Detail-Oriented**: I have experience in data analysis and reporting, combined with a knack for process improvement and efficiency.
+- 🧠 **Lifelong Learner**: Whether it’s learning new programming languages or experimenting with personal projects, I’m always eager to grow and take on new challenges.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+### Interests
+I’m particularly drawn to project-based work in **tech startups** and industries like **luxury fashion**, **gaming**, and **productivity**. I enjoy creating solutions that are both functional and visually engaging.
 
-My CV in [pdf]().
+### Tech & Tools
+- HTML | CSS | JavaScript | MySQL | Figma | and more!
 
-This is a repository to showcase my skills and share my projects in Data Analytics.
+Feel free to reach out if you’d like to connect or discuss all things tech and development!
