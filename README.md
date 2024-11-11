@@ -1,6 +1,6 @@
 # Hi there, I’m Jaymini Chauhan 👋
 
-I'm a tech enthusiast with a background in data, accounts, and creative problem-solving. My journey has led me to the world of **web development**, where I’m excited to blend creativity and technical skills to build dynamic, user-centered applications.
+I'm a tech enthusiast with a background in data, accounts, and creative problem-solving. My journey has led me to the world of **full-stack development**, where I’m excited to blend creativity and technical skills to build dynamic, user-centered applications.
 
 ### About Me
 - 💻 **Aspiring Developer**: Currently focused on enhancing my coding skills and exploring new frameworks as I work toward a career in web development.
