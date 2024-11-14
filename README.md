@@ -13,5 +13,3 @@ I'm a tech enthusiast with a background in accounts, data, and creative problem-
 I’m particularly drawn to project-based work in **tech start-ups** and industries like **fin-tech**, **gaming**, and **productivity/studying**. I enjoy creating solutions that are both functional and visually engaging.
 
 Feel free to reach out if you’d like to connect!
-
-[![Top Langs](https://github-readme-stats-jaymini-chauhans-projects.vercel.app/api/top-langs/?username=jayminic)](https://github.com/jayminic/github-readme-stats)
