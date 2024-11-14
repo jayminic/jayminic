@@ -14,4 +14,4 @@ I’m particularly drawn to project-based work in **tech start-ups** and industr
 
 Feel free to reach out if you’d like to connect!
 
-[![Top Langs](https://github-readme-stats-fawn-sigma.vercel.app/api/top-langs/?username=jayminic)](https://github.com/jayminic/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jaymini-chauhans-projects.vercel.app/api/top-langs/?username=jayminic)](https://github.com/jayminic/github-readme-stats)
