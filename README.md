@@ -1,4 +1,5 @@
-MSc Data Science and AI student in the UK, building practical ML, data and full-stack projects.
+MSc Data Science and AI student building practical ML, data and full-stack projects.
+<!--- Interested in building tools that combine data analysis, machine learning and practical software engineering. --->
 
 ### Tech Stack
 
