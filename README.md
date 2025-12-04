@@ -1,20 +1,33 @@
 ### Hey there! <img src="./the-blobs-live-on-waving.gif" alt="wave" width="25" height="25"/>
-I’m Jaymini, a postgraduate data science and AI student based in the UK.
 
-I design and build whatever I can imagine.
+I'm [Jaymini]( https://www.linkedin.com/in/jaymini-chauhan/), a data science and AI student based in the UK.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
+I build small useful projects that help me understand AI, data, machine learning and software engineering. 
+I'm especially interested in AI, machine learning, data modelling, and building tools that make everyday life easier.
 
-My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, apple notes, and procreate on my iPad.
+**I’m currently exploring:**
+- Machine learning fundamentals  
+- Data analysis & visualisation  
+- Python, SQL 
+- Desktop app development with Electron  and React 
 
-I’ve got a bunch of pinned projects, but my favorite is the Anime Scene Gallery.
+**I’m currently working on:**
+- 📱 **task-management-app** — an desktop project task management app built with Electron and React   
+- 📊 Data analysis & ML projects for my MSc in Data Science & AI 
+- ✍️ A horror novel based narrative game for fun  
 
-I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point.
-
-If you want to learn how i do it, my books and course are available here!
+---
 
 **Fun Facts:**
 - I have two cats
 - I don’t like coffee or tea
 - Demon Slayer is my favorite anime
 - **Hobbies:** anime, gym, building things
+
+---
+
+**Where to find me:**
+
+🕊️ X (Twitter): **@jaymini_chauhan**  
+📚 Studying: MSc Data Science & AI  
+🌍 Location: United Kingdom  
