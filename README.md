@@ -1,4 +1,4 @@
-### Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="25" height="25"/>
+### Hey there! <img src="./the-blobs-live-on-waving.gif" alt="wave" width="25" height="25"/>
 I’m Jaymini, a postgraduate data science and AI student based in the UK.
 
 I design and build whatever I can imagine.
