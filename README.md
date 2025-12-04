@@ -1,41 +1,16 @@
-<!--- ### Hey there! <img src="./the-blobs-live-on-waving.gif" alt="wave" width="25" height="25"/> --->
+MSc Data Science and AI student in the UK, building practical ML, data and full-stack projects.
 
-Hi! I'm [Jaymini]( https://www.linkedin.com/in/jaymini-chauhan/), a data science and AI student based in the UK. 
+### Tech Stack
 
-Building projects that help me understand AI, data modelling, software engineering and deployment. 
-<!--- I enjoy working across the full stack, from Python and SQL to Electron and React. --->
-
-**Current Focus:**
-- Machine learning fundamentals  
-- Data analysis & visualisation  
-- Python and SQL 
-- Desktop app development with Electron and React
-
-**Tech Stack:**
-- **Languages:** Python, SQL, JavaScript, TypeScript
-- **Tools & Frameworks:** React, Electron, Vite, Tailwind CSS, shadcn UI
+- **Languages:** Python, SQL, JavaScript, TypeScript, LaTeX
+- **Tools:** React, Electron, Vite, Tailwind, shadcn UI
 - **Data & ML:** NumPy, Pandas, scikit-learn, Matplotlib
 - **Other:** Git, VS Code, SQLite
 
-**Current Projects:**
+### Projects
 
-🗂️ task-management-app
-- A desktop project/task manager built with Electron, React, Vite and SQLite.
-- Features: templated cards, local data persistence, clean UI built with Tailwind + shadcn.
+- **task-management-app:** Desktop task manager built with Electron, React, Vite and SQLite
+- **MSc Data & ML Projects:** Notebooks on supervised learning, model evaluation and data analysis
+- **Narrative Horror Game:** Small experimental branching-logic game
 
-📊 MSc Data Analysis & ML Projects
-- A collection of Python notebooks exploring supervised learning, model evaluation, statistical analysis and data visualisation as part of my MSc.
-
-🎮 Narrative Horror Mini-Game
-- A story-driven experimental game exploring branching logic and simple mechanics. Built for fun and creativity.
-
-**What I’m Working On**
-- Improving my machine learning foundations through structured MSc coursework
-- Developing practical apps that combine front-end UI with data back-ends
-- Building a portfolio that demonstrates both AI/machine learning and analytics capability
-
-**Where to find me:**
-
-🕊️ X (Twitter): **@jaymini_chauhan**  
-📚 Studying: MSc Data Science & AI  
-🌍 Location: United Kingdom  
+### Focus: Machine learning foundations, full-stack development, and building a strong AI/data portfolio.
