@@ -14,4 +14,4 @@ MSc Data Science and AI student building practical ML, data and full-stack proje
 - **MSc Data & ML Projects:** Notebooks on DSS Bayesian Networks and data analysis
 <!--- - **Narrative Horror Game:** Small experimental branching-logic game --->
 
-### Focus: Machine learning foundations, full-stack development, and building a strong AI/data portfolio.
+<!--- ### Focus: Machine learning foundations, full-stack development, and building a strong AI/data portfolio.--->
