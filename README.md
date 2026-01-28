@@ -3,8 +3,8 @@ MSc Data Science and AI student building practical ML, data and full-stack proje
 
 ### Tech Stack
 
-- **Languages:** Python, SQL, JavaScript, TypeScript, LaTeX
-- **Tools:** React, Electron, Vite, Tailwind, shadcn UI
+- **Languages:** Python, SQL, JavaScript, LaTeX
+- **Tools:** Electron, Vite
 - **Data & ML:** NumPy, Pandas, scikit-learn, Matplotlib
 - **Other:** Git, VS Code, SQLite
 
