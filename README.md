@@ -10,8 +10,8 @@ MSc Data Science and AI student building practical ML, data and full-stack proje
 
 ### Projects
 
-- **task-management-app:** Desktop task manager built with Electron, React, Vite and SQLite
-- **MSc Data & ML Projects:** Notebooks on DSS Bayesian Networks and data analysis
+<!-- - **task-management-app:** Desktop task manager built with Electron, React, Vite and SQLite -->
+- **MSc Data & ML Projects:** Notebooks on DSS Bayesian Networks and Geo Spatial Data Analysis
 <!--- - **Narrative Horror Game:** Small experimental branching-logic game --->
 
 <!--- ### Focus: Machine learning foundations, full-stack development, and building a strong AI/data portfolio.--->
