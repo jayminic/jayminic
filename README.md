@@ -1,17 +1,33 @@
-MSc Data Science and AI student building practical ML, data and full-stack projects.
-<!--- Interested in building tools that combine data analysis, machine learning and practical software engineering. --->
 
-### Tech Stack
+### Jaymini Chauhan ✨
 
-- **Languages:** Python, SQL, JavaScript, LaTeX
-- **Tools:** Electron, Vite
-- **Data & ML:** NumPy, Pandas, scikit-learn, Matplotlib
-- **Other:** Git, VS Code, SQLite
+**Finance Operations → Data Science & AI**
 
-### Projects
+MSc Data Science and Artificial Intelligence, University of London
 
-<!-- - **task-management-app:** Desktop task manager built with Electron, React, Vite and SQLite -->
-- **MSc Data & ML Projects:** Notebooks on DSS Bayesian Networks and Geo Spatial Data Analysis
-<!--- - **Narrative Horror Game:** Small experimental branching-logic game --->
+Previously: 3 years in finance operations at a $2.3bn international insurer
 
-<!--- ### Focus: Machine learning foundations, full-stack development, and building a strong AI/data portfolio.--->
+---
+
+**What I'm building:**
+
+Practical data skills on top of a foundation in operational finance -
+working toward analyst roles where rigour, process, and data intersect.
+
+---
+
+**Technical Stack:**
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, NumPy, scikit-learn, Matplotlib
+- **Tools**: Tableau, Power BI, Jupyter, GitHub
+- **ERP Systems**: PeopleSoft, MicroStrategy
+
+---
+
+**Currently studying:**
+
+Machine Learning · Big Data Analysis · Data Visualisation · Artificial Intelligence
+
+---
+
+📍 London, UK · Open to analyst roles in operations, finance & strategy
