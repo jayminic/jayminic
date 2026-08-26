@@ -1,4 +1,3 @@
-<img width="1252" height="892" alt="image" src="https://github.com/user-attachments/assets/74340b99-53eb-432d-8d90-c3623cf916e6" />
 # ✷ Jaymini Chauhan ✷
 
 MSc Data Science & AI student
